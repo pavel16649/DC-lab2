@@ -1,8 +1,8 @@
 public class Qwerty {
     static void prnt() {
-        System.out.println("HI!");
+        System.out.println("Hi!");
     }
     public static void main(String[]) {
-        System.out.println("Hello world!");
+        System.out.println("hey!");
     }
 }
